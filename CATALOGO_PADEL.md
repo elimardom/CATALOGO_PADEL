@@ -16,9 +16,9 @@
 | Wilson | — | Bela 3, Defy Pro |
 | Kombat | — | Teide |
 | Drop Shot | — | Attack 1.5, Attack 1.0 |
-| Hirostar | — | Alien Tolito 25 |
+| Hirostar | — | Alien Tolito 25, blackstone 25, redstone 25 |
 | Steel | — | Custom Europe |
-| Proximos Diseños | Hirostar Blackstone 25 | —
+| Proximos Diseños | - | —
 | Diseños de 0 de cualquier pala | Pedido Minimo 2uds (7.80€ diseño + 2 llaveros) **Incluye grabado trasero con nombre | —
 
 
@@ -28,3 +28,7 @@
 | Soporte de raqueta personalizado | - | 7.50 |
 | Trofeo personalizado 13 cm | - | 7.50 |
 | Trofeo personalizdo 16 cm | - | 9.90 |
+| lote 5 llaveros | - | 10.90 (2.18/ud) |
+| lote 10 llaveros | - | 20.90 (2.09/ud|
+| lote 20 llaveros | - | 29.90 (1.49/ud) |
+| lote 30 llaveros | - | 39.90 (1.33/ud)|
