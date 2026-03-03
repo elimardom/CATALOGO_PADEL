@@ -25,7 +25,8 @@
 **OTROS ARTICULOS PADEL**
 | ITEM | DESCRIPCION | PRECIO |
 |-------|-----------------|----------------------|
-| Soporte de raqueta personalizado | - | 7.50 |
+| Soporte de raqueta en pared personalizado | - | 7.50 |
+| Soporte de movil para grabacion de partidos desde la red | - | 9.90 |
 | Trofeo personalizado 13 cm | - | 7.50 |
 | Trofeo personalizdo 16 cm | - | 9.90 |
 | llaveros tipo pelota padel | - | 1.90/ud |
