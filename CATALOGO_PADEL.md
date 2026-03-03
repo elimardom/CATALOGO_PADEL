@@ -28,7 +28,19 @@
 | Soporte de raqueta personalizado | - | 7.50 |
 | Trofeo personalizado 13 cm | - | 7.50 |
 | Trofeo personalizdo 16 cm | - | 9.90 |
-| lote 5 llaveros | - | 10.90 (2.18/ud) |
-| lote 10 llaveros | - | 20.90 (2.09/ud|
+| llaveros tipo pelota padel | - | 1.90/ud |
+| llaveros sueltos stock | - | 2.50/ud |
+| lote 5 llaveros stock | - | 9.90 (1.99/ud) |
+| lote 10 llaveros | - | 18.50 (1.85/ud|
 | lote 20 llaveros | - | 29.90 (1.49/ud) |
 | lote 30 llaveros | - | 39.90 (1.33/ud)|
+| lote 40 llaveros | - | 49.90 (1.25/ud)|
+| lote 50 llaveros | - | 59.90 (1.19/ud)|
+| lote + 75 llaveros | - | (1.05/ud)|
+| llaveros corporativos empresa / marca | - | **a partir de 30llaveros 1.50/ud aprox|
+| Logos corporativos empresa / marca para mostrador tienda 20cm| - | **desde 8.90/ud aprox|
+| llaveros padel personalizados con nombre en trasera(modelos en catalogo) | - | 3.90 patron + 2/ud siguientes copias |
+| diseños de 0 de cualquier modelo de raqueta de padel | - | **pedido minimo 2uds 7.80 + 2/ud siguientes copias |
+
+
+
