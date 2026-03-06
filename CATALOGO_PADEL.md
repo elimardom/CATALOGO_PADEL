@@ -38,6 +38,7 @@
 | lote 40 llaveros | - | 49.90 (1.25/ud)|
 | lote 50 llaveros | - | 59.90 (1.19/ud)|
 | lote + 75 llaveros | - | (1.05/ud)|
+| lote + 100 llaveros | - | (0.95/ud)|
 | llaveros corporativos empresa / marca | - | **a partir de 30llaveros 1.50/ud aprox|
 | Logos corporativos empresa / marca para mostrador tienda 20cm| - | **desde 8.90/ud aprox|
 | llaveros padel personalizados con nombre en trasera(modelos en catalogo) | - | 3.90 patron + 2/ud siguientes copias |
